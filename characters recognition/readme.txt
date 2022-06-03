@@ -13,4 +13,4 @@ with a sobel filter then find the center of the edge to then remove the letter i
 like for the letter O and then send it to my neural network to find the coresponding value.
 Finally the algorithm sends the lettre read by order of apperance.
 
-you will find a power point that explains everything in a matter of days 
+Le fichier principal est le fichier nommé "net.py"
