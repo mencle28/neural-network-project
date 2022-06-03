@@ -1,9 +1,9 @@
-This file contains 5 documents:
-	-2 codes which are working in pairs 
-	-an haar_car used in the program (it's use is explained in regression linéaire)
-	-regression linéaire is a file where I explain what I have been doing but careful it is in french
-	-try_of_algorithm is a video which is the result of another video treated by my algorithm
-The result in the video are not the best I had but is intresting because it enables to see diferent problems I have been undergoing.
+Ce fichier contient 5 documents:
+	-2 codes fonctionnent de pair
+	-un fichier haar_car utilisé dans le programme 
+	-regression linéaire est un récapitulatif de ce qui à été fait avec les explications mathématiques
+	-try_of_algorithm est une video dans laquelle on peut voir les résultats de mon algorithme
+Les résultat de la video ne sont pas les meilleur mais sont intéressant pour comprendre les problèmes que j'ai du palier notamment les vibrations de l'image.
 
-To this day I have been able to create a vheicule counter with an efficiency of 95%-100%.
-The car recognition is pretty good up to 90%
+La dernière version me donnait une efficacité de l'ordre de 90 % sur la distinction entre voitures, moto et camion.
+Le compteur quand a lui atteignait les 95%-100% de précision.
